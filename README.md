@@ -72,3 +72,18 @@ The Profile Screen provides a summary of a tourist's overall progress, status, a
 ### Overview of the Skills Tree
 The Skills Display functions as a branching visual map where users can explore and unlock abilities or perks across four travel categories: Adventure, Road Trip, Culture, and Festival. Each category has its own branch of the tree with unique unlockable skills.
 
+# Charactor design
+### Hunter
+![Alt](/avatars/Hunter.jpeg)
+
+### King of Road
+![Alt](/avatars/King%20of%20Road.jpeg)
+
+### Hommie
+![Alt](/avatars/Hommie.jpeg)
+
+### Featival Glam
+![Alt](/avatars/Featival%20Glam.jpeg)
+
+### NT Watcher
+![Alt](/avatars/NT%20Watcher.jpeg)

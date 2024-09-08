@@ -1,5 +1,5 @@
 # Video Presentation
-[![Cover](https://img.youtube.com/vi/gMkq1SKQBOs/0.jpg)](https://www.youtube.com/watch?v=gMkq1SKQBOs)
+[![Cover](/prototype/cover.png)](https://www.canva.com/design/DAGQI-QmImI/ttF4Gx-aFAembD1CaCKW9Q/view?utm_content=DAGQI-QmImI&utm_campaign=designshare&utm_medium=link&utm_source=recording_view)
 
 # Problem Statement:
 * Low Tourist Engagement and Exploration

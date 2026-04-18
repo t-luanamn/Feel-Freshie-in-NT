@@ -167,6 +167,6 @@ UI prototype created from Figma.
 
 | | Name | GitHub |
 |---|---|---|
-| <img src="https://github.com/t-luanamn.png" width="50" height="50" style="border-radius:50%"> | t-luanamn | [@t-luanamn](https://github.com/t-luanamn) |
-| <img src="https://github.com/nofinay.png" width="50" height="50" style="border-radius:50%"> | nofinay | [@nofinay](https://github.com/nofinay) |
-| <img src="https://github.com/Sunny-Sogood.png" width="50" height="50" style="border-radius:50%"> | Sunny-Sogood | [@Sunny-Sogood](https://github.com/Sunny-Sogood) |
+| <img src="https://github.com/t-luanamn.png" width="50" height="50" style="border-radius:50%"> | Tony | [@t-luanamn](https://github.com/t-luanamn) |
+| <img src="https://github.com/nofinay.png" width="50" height="50" style="border-radius:50%"> | Yanitha | [@nofinay](https://github.com/nofinay) |
+| <img src="https://github.com/Sunny-Sogood.png" width="50" height="50" style="border-radius:50%"> | Sunny | [@Sunny-Sogood](https://github.com/Sunny-Sogood) |

@@ -1,13 +1,30 @@
+# Table of Contents
+- [Video Presentation](#video-presentation)
+- [Problem Statement](#problem-statement)
+- [Insight from Data](#insight-from-data)
+- [Solution :: Tourism Gamification in NT](#solution--tourism-gamification-in-nt)
+- [Prototype Design](#prototype-design)
+- [Key Features](#key-features)
+- [Prototype Design Concept](#prototype-design-concept)
+- [Hero Skill Tree](#hero-skill-tree)
+- [Character Design](#charactor-design)
+- [Contributors](#contributors)
+
+---
+
 # Video Presentation
 [![Cover](/prototype/cover.png)](https://www.canva.com/design/DAGQI-QmImI/ttF4Gx-aFAembD1CaCKW9Q/view?utm_content=DAGQI-QmImI&utm_campaign=designshare&utm_medium=link&utm_source=recording_view)
 Demo video
 https://vimeo.com/1007350472?share=copy
 
+---
 
 # Problem Statement:
 * Low Tourist Engagement and Exploration
 * Difficulty in Personalising Travel Experiences
 * Safety Concerns in Wildlife Areas
+
+---
 
 # Insight from Data:
 * Travelers in Australia, primarily interstate visitors
@@ -19,13 +36,17 @@ https://vimeo.com/1007350472?share=copy
 #### Stay (nights) and Spend
 ![Alt](/visualisation/stay%20and%20spend.png)
 
+---
+
 # Solution :: Tourism Gamification in NT
 Tourism Adventure Game App for Northern Territory
 
 ## Story for the Prototype
 A Tourist's Journey: Meet "Sam," a first-time visitor to the Northern Territory. Sam opens the app to begin exploring, instantly drawn to the Adventure category. Sam chooses to visit Nitmiluk National Park, where they meet an AR ranger NPC guiding them to hidden waterfalls and offering trivia on the park's Indigenous history. After arrived the destination, Sam earns EXP and unlocks a 10% discount on gear rentals.
 Next, Sam switches gears and explores the cultural side of NT by visiting the Darwin Festival. Here, they meet an AR performer and complete a challenge to find hidden festival clues using the app. Completing the challenge unlocks a Level Up in the Festival category, earning Sam a free meal voucher at a nearby restaurant.
-As Sam continues to explore, they build up their profile, unlocking badges, perks, and discounts, making every step of the journey rewarding. Sam’s overall status rises in different categories, with the goal of unlocking passive abilities that help on future trips—like cheaper road trips or priority access to popular events.
+As Sam continues to explore, they build up their profile, unlocking badges, perks, and discounts, making every step of the journey rewarding. Sam's overall status rises in different categories, with the goal of unlocking passive abilities that help on future trips—like cheaper road trips or priority access to popular events.
+
+---
 
 # Prototype Design
 https://www.figma.com/community/file/1414493956223577680
@@ -42,6 +63,8 @@ The game will offer four different travel types for tourists to select based on 
 * Road Trip
 * Culture and Local Experiences
 * Festivals
+
+---
 
 ## Key Features
 ### Leveling and Rewards System
@@ -66,7 +89,7 @@ Friend Locator: The app displays the live location of party members, making grou
 
 ### Crocodile Safety Alert System
 Real-time Safety Notifications: Given the prevalence of crocodiles in the NT, the app will feature alerts for high-risk zones where crocodile activity is reported.
-Tourist and Ranger Safety: The system helps both tourists and officials monitor safe areas and crowded spots. It uses crowd-sourced data, allowing tourists to report sightings that differ from the system’s data for improved accuracy.
+Tourist and Ranger Safety: The system helps both tourists and officials monitor safe areas and crowded spots. It uses crowd-sourced data, allowing tourists to report sightings that differ from the system's data for improved accuracy.
 
 ### Route for Today
 Personalised Routes: Based on the number of days and interests provided by the tourist, the app generates tailored travel routes.
@@ -77,7 +100,7 @@ Special Alerts: The app provides daily quests in nearby areas of interest, such 
 Bonus EXP: Completing these quests offers double EXP rewards to encourage active exploration.
 
 ### Status and Skill System
-Every tourist has a profile showing their overall progress across categories, including badges and achievements they’ve unlocked.
+Every tourist has a profile showing their overall progress across categories, including badges and achievements they've unlocked.
 > #### Skill Tree:
 > The profile includes a skill tree representing active and passive abilities. For instance:
 > * Active Skills: Earn discounts on food or travel gear when performing specific actions (like  visiting two cultural landmarks in a day).
@@ -90,6 +113,8 @@ Every tourist has a profile showing their overall progress across categories, in
 
 ### Conclusion
 The app not only enhances the NT tourism experience by encouraging exploration but also rewards tourists, helping them feel accomplished as they level up their travel profiles. The added safety and party features create an engaging, safe, and social experience for visitors.
+
+---
 
 # Prototype Design Concept
 UI prototype created from Figma.
@@ -114,11 +139,15 @@ UI prototype created from Figma.
 #### Travel Log
 ![Alt](/prototype/travel%20log.png)
 
+---
+
 # Hero Skill Tree
 ![Alt](/prototype/hero%20ability.png)
 ![Alt](/prototype/hero%20ability%202.png)
 ### Secret Hero
 ![Alt](/prototype/secret%20hero.png)
+
+---
 
 # Charactor design
 ### Hunter
@@ -131,3 +160,13 @@ UI prototype created from Figma.
 ![Alt](/avatars/Featival%20Glam.jpeg)
 ### NT Watcher
 ![Alt](/avatars/NT%20Watcher.jpeg)
+
+---
+
+# Contributors
+
+| | Name | GitHub |
+|---|---|---|
+| <img src="https://github.com/t-luanamn.png" width="50" height="50" style="border-radius:50%"> | t-luanamn | [@t-luanamn](https://github.com/t-luanamn) |
+| <img src="https://github.com/nofinay.png" width="50" height="50" style="border-radius:50%"> | nofinay | [@nofinay](https://github.com/nofinay) |
+| <img src="https://github.com/Sunny-Sogood.png" width="50" height="50" style="border-radius:50%"> | Sunny-Sogood | [@Sunny-Sogood](https://github.com/Sunny-Sogood) |
